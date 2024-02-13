@@ -8,16 +8,16 @@ To use `password-generator` into your command line and enter:
 git clone https://github.com/myferr/password-generator/
 ```
 
-# Passw. A Python library 🦄
+# Passowo. A Python library 🦄
 
-Passw is used for generating passwords using Python that I created! This password generator repo is more of a test of the library, I'm working on adding a bunch of cool features to Passw.
+Passowo is used for generating passwords using Python that I created! This password generator repo is more of a test of the library, I'm working on adding a bunch of cool features to Passw.
 
 Right now I have:
-* `passw.generate_password()`
-* `passw.generate_letters()`
-* `passw.generate_numbers()`
-* `passw.generate_special_characters()`
+* `passowo.generate_password()`
+* `passowo.generate_letters()`
+* `passowo.generate_numbers()`
+* `passowo.generate_special_characters()`
 
-As functions for Passw.
+As functions for Passowo.
 
 Full documentation and a repo of it will be released once it's done! I also aim towards publishing Passw on `pip` once the library is complete.
